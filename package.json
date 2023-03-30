@@ -1,7 +1,7 @@
 {
   "name": "test-task",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/TestTask-SheepFish",
+  "homepage": "https://ErastKoliasa.github.io/TestTask-SheepFish",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
