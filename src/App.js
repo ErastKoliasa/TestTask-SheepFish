@@ -13,10 +13,10 @@ function App() {
         <BrowserRouter basename='/'>
           <Routes>
             <Route path='/' element={<Home/>} />
+            <Route path='products' element={<ProductsListContainer/>} />
             <Route path='*' element={<NotfoundPage/>} />
-            <Route path='/products' element={<ProductsListContainer/>} />
          </Routes>
-      </BrowserRouter>
+         </BrowserRouter>
       </div>
     );
   }
