@@ -1,0 +1,19 @@
+Form {
+    border: 3px solid #4CAF50;
+    border-radius: 30px;
+    margin: 10px 30%;
+    padding: 30px;
+    text-align: center;
+}
+
+input {
+    width: 220px;
+    height: 27px;
+    border: 1px solid #4CAF50;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+p {
+    color: #1976d2;;
+}
